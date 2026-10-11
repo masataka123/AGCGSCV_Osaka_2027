@@ -3,25 +3,19 @@ layout: default
 title: Home
 ---
 
-<script src="{{ '/assets/js/header-rotator.js' | relative_url }}"></script>
-
-
 
 ## Information
 - Date: February 11th (Thu) afternoon -- 13th (Sat) morning, 2027 (2027年2月11日(木)午後~2月13日(土) 午前)
-- Place: Room E404, Toyonaka Campus, The University of Osaka (大阪大学 豊中キャンパス E404教室) 
+- Place: Room E404, Toyonaka Campus, The University of Osaka (大阪大学 豊中キャンパス 理学部 E404教室) 
 
 ## Invited Speakers
 - Makoto Enokizono (the University of Tokyo)
-- **Online**
+- ?? **Online**
+
+TBA
 
 ## Schedule
-
-## Caution about spam emails
-
-Some participants got emails from a so-called “travel agency” about hotel booking.
-**Please be careful, these are spam**.
-The organizers will contact you directly about hotel reservations, visa documents, and other arrangements.
+TBA
 
 <!-- 
 
@@ -88,39 +82,50 @@ Coupled Kähler-Einstein metrics and coupled Ding stability
 
 ##  Program
 
-Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/AGCG_Osaka_2026/material/program_AGCG_Osaka.pdf)
-
+We will inform around  December 2026.
 <!--
-We will inform around  December 2025.
+Here is the PDF file of program and abstracts. [Lunch map](https://masataka123.github.io/AGCGSCV_Osaka_2027/material/program.pdf)
+
 If you plan to join the banquet, please fill out [this form](https://forms.office.com/r/5zeTqzxuv0) by **December 19 (Fri), 2025**.
 -->
 
 ## Lunch map
-Here is a Lunch map near the University of Osaka [Lunch map](https://masataka123.github.io/AGCG_Osaka_2026/material/lunch_map.pdf)
+Here is a Lunch map near the University of Osaka [Lunch map](https://masataka123.github.io/AGCGSCV_Osaka_2027/material/lunch_map_E404.pdf)
 
 ## Access
 
-### Other information
- - If you need further assistance (for example, how to get to "Shibahara-handai-mae" Station), please refer to [this link](http://www.math.sci.osaka-u.ac.jp/eng/access.html).
- - If you take Ishibashi handai-mae" Station  (Hankyu) (石橋阪大前 (阪急電鉄)), please see  the directions from "Ishibashi handai-mae" Station (Hankyu) to Nambu Yoichiro Hall. [Link to directions](https://masataka123.github.io/AGCG_Osaka_2026/material/access_ishibashi_en.pdf) 
- (But we don't recommend because it takes 30 minutes on foot.)
- 
- 
+The venue is **Room E404, on the fourth floor of Building E, Graduate School of Science, Toyonaka Campus, The University of Osaka**.
+
+Please see the following PDFs for walking directions to the Science building:
+
+- [From Shibahara-handai-mae Station (Osaka Monorail) / 柴原阪大前駅から（大阪モノレール）](https://masataka123.github.io/AGCGSCV_Osaka_2027/material/access_science_shibahara_en.pdf)
+- [From Ishibashi-handai-mae Station (Hankyu Railway) / 石橋阪大前駅から（阪急電鉄）](https://masataka123.github.io/AGCGSCV_Osaka_2027/material/access_science_ishibashi_en.pdf)
+
+
 ## Organizers
 - [Osamu Fujino]
 - [Masataka Iwai](https://masataka123.github.io/blog3_e/) (The University of Osaka)
 
 If you have any questions concerning this conference, please contact Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
 
-## Supports 
-- Global Academic Collaboration Program in the University of Osaka. (Iwai)
+## Financial Support
+
+This workshop is supported by JSPS KAKENHI Grant Number JP26H01995 ( Shigeharu Takayama). (基盤研究(A)「複素幾何学への多角的アプローチ」（研究代表者：高山 茂晴（東京大学），課題番号 26H01995，研究期間 2026–2030年度）)
 
 
 ## Links
-- []()
+- [Workshop on Algebraic Geometry and Complex Geometry in Osaka (2026)](https://masataka123.github.io/AGCG_Osaka_2026/)
 - [Workshop on Complex Geometry in Osaka 2024](https://masataka123.github.io/complexgeometry_osaka_2024/)
 - [Workshop on Complex Geometry in Osaka 2023](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023)
 - [Workshop on Complex Geometry in Osaka 2022](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry)
+
+
+## Caution about spam emails
+
+Some participants got emails from a so-called “travel agency” about hotel booking.
+**Please be careful, these are spam**.
+The organizers will contact you directly about hotel reservations, visa documents, and other arrangements.
+
 
 
 <!-- 
