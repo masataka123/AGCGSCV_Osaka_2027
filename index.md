@@ -83,6 +83,7 @@ Coupled Kähler-Einstein metrics and coupled Ding stability
 ##  Program
 
 We will inform around  December 2026.
+
 <!--
 Here is the PDF file of program and abstracts. [Lunch map](https://masataka123.github.io/AGCGSCV_Osaka_2027/material/program.pdf)
 
