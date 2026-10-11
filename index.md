@@ -103,7 +103,7 @@ Please see the following PDFs for walking directions to the Science building:
 
 
 ## Organizers
-- [Osamu Fujino]
+- [Osamu Fujino](https://www.math.kyoto-u.ac.jp/~fujino/) (Kyoto University)
 - [Masataka Iwai](https://masataka123.github.io/blog3_e/) (The University of Osaka)
 
 If you have any questions concerning this conference, please contact Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
