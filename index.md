@@ -3,6 +3,7 @@ layout: default
 title: Home
 ---
 
+<script src="{{ '/assets/js/header-rotator.js' | relative_url }}"></script>
 
 ## Information
 - Date: February 11th (Thu) afternoon -- 13th (Sat) morning, 2027 (2027年2月11日(木)午後~2月13日(土) 午前)

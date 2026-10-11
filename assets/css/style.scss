@@ -5,8 +5,13 @@
 
 /* 背景画像まわり（既存のままでOKなら触らなくてよい） */
 #header_wrap {
-  background-image: none;
-  background-color: #212121;
+  background-image:
+    linear-gradient(rgba(0,0,0,{{ site.overlay_opacity | default: 0.35 }}),
+                    rgba(0,0,0,{{ site.overlay_opacity | default: 0.35 }})),
+    url('{{ site.header_image | relative_url }}');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 /* ① ヘッダー内テキストの横幅を広げる + ② 縦幅を少し小さく */
