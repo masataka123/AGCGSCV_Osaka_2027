@@ -1,0 +1,42 @@
+#remote_theme: pages-themes/leap-day@v0.2.0
+#plugins:
+#- jekyll-remote-theme # add this line to the plugins list if you already have one
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: Workshop on Algebraic Geometry, Complex Geometry, Several Complex Variavles in Osaka 2027
+
+# description: Around positivity of tangent sheaves and anti-canonical divisors
+#theme: jekyll-theme-cayman
+
+# 画像と動作設定（必要に応じて差し替え）
+header_image: /assets/img/osaka-castle.jpg   # JS無効時のデフォルト
+header_images:
+  - /assets/img/osaka-castle.jpg
+  - /assets/img/IMG_7.jpg
+  - /assets/img/IMG_5.jpg
+  - /assets/img/nakanoshima.jpg
+  - /assets/img/IMG_2.jpg
+  - /assets/img/tsutenkaku.jpg
+  - /assets/img/IMG_1.jpg
+  - /assets/img/dotonbori.jpg
+  - /assets/img/IMG_3.jpg
+  - /assets/img/IMG_6.jpg
+  
+overlay_opacity: 0.35
+rotate_interval_ms: 6000
+
+# 既存の設定はそのまま
+header_max_width: 1200px   # ←ヘッダー内テキストの横幅を広げる
+header_height: 3.2rem      # ←上下余白を減らして縦幅を少し小さく（好みで）
+header_min_height: 26vh    # ←最低高さ（もう少し小さくしたければ 22vh など）
+content_max_width: 1200px  # ←本文側も広くしたい場合（任意）
+
+body_font_size: 18px     # 本文の基本サイズ（例：17px, 18px など）
+h1_size: 2.4rem          # 本文側のH1
+h2_size: 1.8rem          # 本文側のH2
+h3_size: 1.4rem          # 本文側のH3
+line_height: 1.75        # 行間
+
+github:
+  is_project_page: false
