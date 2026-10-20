@@ -8,11 +8,19 @@ title: Home
 - Date: February 11th (Thu) afternoon -- 13th (Sat) morning, 2027 (2027年2月11日(木)午後~2月13日(土) 午前)
 - Place: Room E404, Toyonaka Campus, The University of Osaka (大阪大学 豊中キャンパス 理学部 E404教室) 
 
-## Invited Speakers
-- Makoto Enokizono (the University of Tokyo)
-- ?? **Online**
 
-TBA
+## Invited Speakers
+
+- Makoto Enokizono (The University of Tokyo)
+- Taro Fujisawa (Tokyo Denki University)
+- Takumi Murayama (Purdue University) **Online**
+- Takeo Ohsawa (Nagoya University) **TBA**
+- Martin Sera (Kyoto University of Advanced Science)
+- Masakazu Takakura (Tokyo Metropolitan University)
+- Yuta Watanabe (Chuo University) **Online**
+- Yuto Yamada (Institute of Science Tokyo)
+- Yangyang Zhang (University of Tsukuba)
+
 
 ## Schedule
 TBA
